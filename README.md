@@ -17,3 +17,5 @@ Course:
 4. Edit a course
 5. Delete a course
 6. Delete all courses
+
+<!-- copilot-tick 2026-01-17T04:57:43.539Z -->
